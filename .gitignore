@@ -1,6 +1,7 @@
 
 # Created by https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode
 one-on-ones.md
+.vscode
 
 ### Linux ###
 *~
