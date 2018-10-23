@@ -1,0 +1,19 @@
+/* Selectors */
+
+#green {
+    color: green;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+body p {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
+

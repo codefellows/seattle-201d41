@@ -23,7 +23,7 @@ User stories typically take the form of, "As X, I want Y, so that Z" but do not 
 - As a developer, I want to provide five questions to the user, so that they can guess the answers and get to know me.
 - As a developer, I want to notify the user after each question, so they are aware whether they were correct or not in their answers.
 - As a developer, I want to be able to debug my code by using well structured console messages.
-- As a developer, I want to manage my code through an online version control system, so I have the ability to work with others, manage my revisions, and keep a thorough record of my progress.
+- As a developer, I want to manage my code through an version control system, so I have the ability to keep a thorough record of my progress.
 
 ### Technical Requirements for "About Me"
 
@@ -34,7 +34,7 @@ User stories typically take the form of, "As X, I want Y, so that Z" but do not 
 - The questions in the guessing game must require a mix of yes/no answers, and user input must accept either y/n or yes/no responses, with either `.toUpperCase()` or `.toLowerCase()` used to validate the user input and accommodate users entering all-caps Y/N or YES/NO answers, too.
 - Useful and descriptive `console.log()` messages in the JS are well written and correctly displaying to the browser console for each question of the guessing game.
 - Use CSS to style your page as you see fit, to the level of abilities in CSS that you currently have.
-- Follow the Add, Commit, Push process. It should be evident in GitHub that commits are made regularly, and with good commit messages that explain the WHY of the commit.
+
 
 
 ### Supporting Information
@@ -54,9 +54,6 @@ User stories typically take the form of, "As X, I want Y, so that Z" but do not 
 - `git commit -m "Your commit message"`
    - Snapshot the tracked changes in current working directory, with a brief message describing the changes
 
-- `git push <destination> <branch>`
-   - Push local commits to GitHub
-
-### Add, Commit, Push (ACP): Learn it. Know it. Live it.
+### Add, Commit (AC): Learn it. Know it. Live it.
 
 ### *Remember to submit the link to your repo on Canvas so that your work can be graded!*
