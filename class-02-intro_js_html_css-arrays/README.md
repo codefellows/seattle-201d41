@@ -3,12 +3,20 @@
 <a id="top"></a>
 
 ## Today's Schedule
-- Announcements
-- Code review *[30 minutes]*
-- [Topics from HTML readings](#html) *[15 minutes]*
-- [Topics from CSS readings](#css) *[30 minutes]*
-- [Topics from JS readings](#js) *[45 minutes]*
-- [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
+- Notes:
+    - Anything top of mind?
+    - Quizzes & Learning Journals
+- Git
+- HTML (5 minute checkin)
+- JS:
+    - Data Types
+    - Conditionals
+    - Arrays
+    - Linking JS scripts
+- CSS:
+    - Intro (or more?)
+    - Linking CSS stylesheets
+- Shell prompts: Install zshell
 
 ### Announcements:
  - Quizzes:
@@ -94,7 +102,7 @@ As a result of completing Lecture 2 of Code 201, students will:
 - p.30 	Events
 - p.36 	Browsers & document object
 - p.40 	How a browser sees a web page
-- p.44 	How HTML, CSS, JS work together			
+- p.44 	How HTML, CSS, JS work together
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
 
@@ -117,7 +125,7 @@ As a result of completing Lecture 2 of Code 201, students will:
 - p.152 	Structuring comparison operators
 - p.156 	Logical operators
 - p.160 	‘If’ statements
-- p.162 	‘If...else’ 
+- p.162 	‘If...else’
 
 [-top-](#top)
 

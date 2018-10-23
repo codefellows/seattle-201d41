@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Document</title>
+</head>
+<body>
+  <header></header>
+  <main></main>
+  <footer></footer>
+  <script>
+    // var userName = prompt("What's your name?");  // Double quotes
+    // var userName = prompt('Whats your name?');  // Bad grammar
+    var userName = prompt('What\'s your name?');  // Escape character
+
+    // if (some condition evaluates to Truthy) {
+      //  Do Something
+    // } else {
+      //  Do something else
+    //  }
+
+    if (userName.length >= 3) {
+      alert('Welcome to the site, ' + userName + '.');
+    } else {
+      alert('Your name is short. Thanks, ' + userName + '.');
+    }
+
+    var userAge = prompt('How old are you?');
+    console.log(typeof(userAge));
+
+
+  </script>
+</body>
+</html>
