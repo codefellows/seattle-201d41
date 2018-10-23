@@ -27,7 +27,7 @@ User stories typically take the form of, "As X, I want Y, so that Z" but do not 
 
 ### Technical Requirements for "About Me"
 
-- Follow the instructions in the adjacent ["Setting Up a New Code 201 Project"](./setting-up-a-new-project.md) document.
+- Create a new directory for this project, and use `git init` to initialize a new repository in that directory.
 - HTML, CSS, and JavaScript must be cleanly written with correct indentation and syntax. Look at examples online and in your textbook. Note that your JS must pass the rules in the linter that we installed.
 - Your JS file must contain a 'use strict' declaration at the top. Always.
 - Design a guessing game about you that involves **FIVE** yes/no questions. Be creative and fun and whimsical. Or not. It's up to you! It's your project!
