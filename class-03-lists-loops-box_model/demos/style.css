@@ -1,0 +1,15 @@
+* {
+  outline: 0.25px solid blue;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 2px 5px 2px 5px;  /* top right bottom left */
+  margin: 2px 5px;  /* top/bottom  left/right */
+  margin: 5px;  /* All sides */
+
+  margin-top: 5px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+}

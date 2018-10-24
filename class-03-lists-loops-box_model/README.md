@@ -6,9 +6,9 @@
 ## Today's Schedule
 - Notes:
     - Anything top of mind?
-- Code Review
+    - zshell
 - Github
-- Control Flow
+- JS Control Flow
 - CSS Box Model
 - Lab Preview
 
