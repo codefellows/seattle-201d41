@@ -1,0 +1,90 @@
+/* CSS!! */
+* {
+    /* outline: 1px solid blue; */
+    box-sizing: border-box;
+}
+body {
+    background-color: pink;
+    color: darkslategrey;
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(54, 77, 78);
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+li {
+    font-family: sans-serif;
+}
+p {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgba(221, 160, 221, 0.5);
+    text-align: center;
+    padding: 5px;
+    margin: 15px 50px;
+    color: rgb(49, 52, 54);
+}
+
+header li {
+    list-style: none;
+    display: inline;
+    padding-left: 5px;
+    padding-right:5px;
+    text-align: center;
+    margin: 3px;
+}
+nav {
+    text-align: center;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+    margin-bottom: 3px;
+}
+h2{
+    font-size: 25px;
+    margin-top: 2px;
+}
+
+section {
+    background-color: rgba(128, 128, 128, 0.493);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+#bio {
+    margin-left: 300px;
+    margin-right: 50px;
+}
+
+#experience {
+    margin-left: 50px;
+    margin-right: 300px;
+}
+
+#education {
+    margin-left: 300px;
+    margin-right: 50px;
+}
+
+#goals {
+    margin-left: 50px;
+    margin-right: 300px;
+}
+
+#topten {
+    margin-left: 300px;
+    margin-right: 50px;
+} 
+
+
