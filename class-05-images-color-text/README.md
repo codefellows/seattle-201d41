@@ -4,6 +4,15 @@
 ## Lecture 5
 
 ## Today's Schedule
+- Notes:
+    - Anything top of mind?
+    - Weekly Feedback Surveys
+
+- Code Review
+- CSS Layout Demo
+- Git Branching & GH Pages
+- Lab Preview
+
 - Announcements
 	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
 	- The instructor will have a 15-minute one-on-one meeting with each student during the coming week: this will be an opportunity to review your progress, answer any questions you have, and discuss any topics the instructor sees appropriate, such as your future plans in the program. We will start the process of scheduling those meetings very soon.

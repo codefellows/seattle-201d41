@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+}
+header {
+    color: blueviolet;
+    font-style: oblique;
+    font-size: 800%
+}
+h2 {
+    color: blue;
+    font-size: 300%;
+    text-align: center
+}
+p {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h3 {
+    color: green;
+    font-size: 200%;
+    text-align: right
+}
+h6 {
+    color: blue;
+    font-size: 169%;
+    text-align: center
+}

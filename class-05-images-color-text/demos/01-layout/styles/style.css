@@ -1,0 +1,13 @@
+
+
+
+main {
+  margin-bottom: 60px;
+}
+
+footer {
+  height: 50px;
+  background-color: #cccccc;
+  position: fixed;
+  bottom: 0;
+}
