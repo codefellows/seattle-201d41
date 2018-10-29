@@ -33,7 +33,7 @@ var turtleDonatello = {
   sayHello: function () {
     return `Hello, my name is Donatello.`;
   },
-  render() {
+  render: function() {
     // create an element
     // provide content for that element
     // append the element to the page (in a specific place)
