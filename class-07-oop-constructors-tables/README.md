@@ -4,10 +4,14 @@
 ## Lecture 7
 
 ## Today's Schedule
-- Announcements
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[90 minutes]*
+- Notes
+    - Anything top of mind?
+
+- Code Review
+- Constructor Functions & Prototypes
+- HTML Tables
+- Lab Preview
+
 
 **Learning Objectives**
 
