@@ -22,7 +22,7 @@ function Turtle(name, color, ninja, arrIn) {
 
   turtles.push(this); // Appends the new object (referenced by the contextual `this` keyword) to the turtles array in the global scope
 
-  this.render(); // Call the `render` method belonging to the instane when instantiated.
+  // this.render(); // Call the `render` method belonging to the instane when instantiated.
 
 
   // NOTE: This is an anti-pattern and less efficient than working with the prototype
