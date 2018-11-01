@@ -4,11 +4,15 @@
 ## Lecture 9
 
 ## Today's Schedule
-- Announcements
-  - It's not too soon to start thinking about final projects. Let's have a conversation about that, because soon you're going to be divided up into teams and starting on your projects.
-- Code Review *[75 minutes]*
-- [Layout Demo 1](#layout1) *[60 minutes]*
-- [Layout Demo 2](#layout2) *[75 minutes]*
+- Notes:
+    - Anything top of mind?
+    - Not to early to start thinking of final projects
+
+- Pop Quiz!!
+- Code Review
+- CSS Layout Review / Demo
+    - Grid Systems
+- Lab Preview
 
 **Learning Objectives**
 
