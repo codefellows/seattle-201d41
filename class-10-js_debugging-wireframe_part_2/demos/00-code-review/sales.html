@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+  </style>
+  <meta charset="utf-8" />
+  <title>Salmon Cookies: Sales</title>
+  <link href="reset.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="salesstyles.css" />
+</head>
+
+<body>
+  <div id="body">
+    <header>SALES INFO
+      <nav class="navbar">
+        <br class="navbar"><a href="index.html">Home</a> | <a href="merch.html">Merch</a> | <a href="sales.html">Sales</a>
+      </nav>
+    </header><br>
+    <main id="main-content">
+      <table>
+        <thead id="thead"></thead>
+        <tbody id="tbody"></tbody>
+        <tfoot id="tbl-foot"></tfoot>
+      </table>
+    </main>
+    <br>
+    <form id="form-data">ADD A NEW STORE:
+      <fieldset>
+        Location Name: <input name="locationInput" type="text" placeholder="Bellevue Square">
+        Average Cookies Purchased: <input name="avgCookiesInput" type="number" step="0.01" placeholder="5"><br>
+        Minimum Customers: <input name="minInput" type="number" placeholder="5">
+        Maximum Customers: <input name="maxInput" type="number" placeholder="15"><br>
+        <button id="submit" type="submit">Submit Your Store!</button>
+    </form>
+    </main>
+  </div>
+  <footer>
+    <img src="./assets/salmon.png" class="salmon">
+  </footer>
+  <script src="app.js"></script>
+</body>
+
+</html>

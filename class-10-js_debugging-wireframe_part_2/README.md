@@ -4,12 +4,16 @@
 ## Lecture 10
 
 ## Today's Schedule
-- Announcements
-  - Reminder: weekly surveys will go out today.
-  - Project Week starts a week from today! Let's look over some samples of projects from recent offerings of this class.
-- Code Review *[90 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[30 minutes]*
+- Notes
+    - Anything top of mind?
+    - 201 final projects @1:30p
+    - Feedback Survey!
+
+- Code Review
+- JS Topics
+- Live Server & Chrome Debugger
+- Debugging in VS Code
+- Lab Preview
 
 **Learning Objectives**
 
