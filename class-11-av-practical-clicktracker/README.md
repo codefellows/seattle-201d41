@@ -4,13 +4,15 @@
 ## Lecture 11
 
 ## Today's Schedule
-- Announcements
-  - Project Week is getting closer! Pitch your project idea in the Canvas assignment.
-  - Review feedback from week 2 surveys
-- Discuss upcoming Career Coaching assignments
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[90 minutes]*
+- Notes:
+    - Anything top of mind?
+    - .NET midterm presentation @1:30p on Friday
+- Code Review
+- Images
+- Workshop: Write some user stories!
+- Set up for Bus Mall
+- Lab Preview
+
 
 **Learning Objectives**
 
@@ -43,3 +45,4 @@ As a result of completing Lecture 11 of Code 201, students will be able to:
 - [MDN article on video and audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
 [-top-](#top)
+
