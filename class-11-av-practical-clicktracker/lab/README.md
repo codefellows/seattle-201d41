@@ -26,6 +26,21 @@ You are also responsible for the look and feel of the app, so don't forget a cus
 
 ## User Stories
 
+```
+User Stories: (credit to Guru and Gwen Also)
+•    As a user, I want to be presented with a choice of three different images of randomly selected products out of a pool of 14 images.
+•    As a user, after I select an image, I would like my selection to recorded.
+•    As a user, I would like my total clicks to be recorded.
+•    As a user, after I make a selection from the three images, I would like to be presented a new selection of three images.
+•    As a user, I would to be prompted to view my results after 15 sets of images are presented.
+•    As a user, I would like to be prompted to reset the entire exercise after viewing the results.
+•    As a user, I would like to be called an idiot if I miss the image when clicking.
+•    As a user, I would like a horribly, poorly spelled instructional header.
+•    As a user, I would like a shadow box effect on each image.
+•    As a user, I would like the images to be centered inside the bounding box.
+•    As a user, I would like all bounding boxes to be the same size, horizontally aligned, and equidistance apart.
+```
+
 Part of your assignment today is to write your own user stories. Be sure to consider the multiple roles involved: the marketing research team, the developer, and the focus group participant who will be using the application. Try to write 4-5 user stories for each role. DO THIS STEP FIRST in a file called `user_stories.md`. The commit logs in your repo will have a first couple of commits for the scaffolding process, but next you should have a 'user stories' commit that is in place before any code is written.
 
 As a reminder, user stories typically take the form of, "As X, I want Y, so that Z" but do not necessarily need that structure.
