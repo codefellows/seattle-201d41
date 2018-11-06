@@ -4,10 +4,16 @@
 ## Lecture 12
 
 ## Today's Schedule
-- Announcements
-- Code Review *[60 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[90 minutes]*
+- Notes
+    - Anything top of mind?
+    - Project groups in Canvas
+
+- Code Review
+    - `use strict` (Scott's reminder to talk about this...)
+- Canvas Element
+- Working with Libraries
+- ChartJS
+- Lab Preview
 
 **Learning Objectives**
 
