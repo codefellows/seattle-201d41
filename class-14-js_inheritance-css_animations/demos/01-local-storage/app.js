@@ -58,13 +58,13 @@ var chartConfig = {
   }
 };
 
-
 var myChart = new Chart(ctx, chartConfig);
 
 if(localStorage.getItem('voteData')) {
   var voteData = localStorage.getItem('voteData');
   myChart.data.datasets[0].data = JSON.parse(voteData);
 
+  // Recreate your Product objects || Update the Products in your allProducts array
 
   // myChart.data.datasets[0].data = JSON.parse(localStorage.getItem('voteData'));
 
@@ -72,7 +72,6 @@ if(localStorage.getItem('voteData')) {
 }
 
 colorsEl.addEventListener('click', function(event) {
-  // validate the target as a p tag
   // get the id of the target p tag
   // use the id to get the index location for what data point to increment in data
 

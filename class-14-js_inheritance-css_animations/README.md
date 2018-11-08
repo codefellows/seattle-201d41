@@ -4,11 +4,21 @@
 ## Lecture 14
 
 ## Today's Schedule
-- Announcements
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
-- [Advanced JS topics](#advanced) *[30 minutes]*
-- Code demo *[60 minutes]*
+- Notes:
+    - Anything top of mind?
+
+- Final Project Notes:
+    - The Code 301 entrance test will be assigned in Canvas tmrw *Friday* and must be submitted by *Sunday @11:59pm*. This applies to ALL students, regardless of your plans for 301, as it is part of your final grade in 201.
+    - The passing score on the test is 80%. If you do not pass on the first try, I will be in touch with you on Monday about retaking it (allowed once) next Wednesday, so keep studying!
+    - All late assignments and resubmits must also be completed by *Sunday DATE 11:59pm* in Canvas. You need a 90% or above in the course to pass and be eligible to move forward to Code 301.
+    - Enrollment for Code 301 will take place the week after Code 201 ends (I’ll send more details next week).
+
+    - Project Pitches & Plan for next week
+
+- Code Review
+- JS Topics
+- Lab Preview
+
 
 **Learning Objectives**
 
