@@ -4,12 +4,15 @@
 ## Lecture 15
 
 ## Today's Schedule
-- Announcements
-  - Reminder: weekly surveys will go out today
-- Discuss upcoming Career Coaching assignments
-- Code Review *[60 minutes]*
-- [301 Preview](#301) *[30 minutes]*
-- [Final Project Overview](#project) *[60 minutes]*
+- Notes:
+    - Anything top of mind?
+    - Deploying yesterday's lab
+
+- Psychological Safety
+- Code Review
+- 301 Preview
+- (Kent) Agile Discussion
+- Lab Preview
 
 **Learning Objectives**
 

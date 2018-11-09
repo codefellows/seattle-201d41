@@ -1,0 +1,44 @@
+/* TODO: Make it awesome */
+
+header {
+  position: relative;
+  margin-left: 500px;
+  text-align: center;
+  background-color: tomato;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  width: 500px;
+  border-style: double;
+  border-width: 42px;
+}
+
+body {
+  width: 1400px;
+  background-color: black;
+}
+
+
+main {
+  background-color: burlywood;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.quantity:hover { 
+  background-color: magenta;
+}
+
+footer {
+  background-color: tomato;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  position: relative;
+  font-weight: bolder;
+  text-align: center;
+}
+
+input[type="submit"]:hover {
+  background-color: red;
+}
